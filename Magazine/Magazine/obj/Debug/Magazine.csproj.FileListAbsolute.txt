@@ -1,0 +1,7 @@
+E:\C#\Magazine\Magazine\obj\Debug\Magazine.csprojAssemblyReference.cache
+E:\C#\Magazine\Magazine\obj\Debug\Magazine.csproj.CoreCompileInputs.cache
+E:\C#\Magazine\Magazine\bin\Debug\Magazine.exe.config
+E:\C#\Magazine\Magazine\bin\Debug\Magazine.exe
+E:\C#\Magazine\Magazine\bin\Debug\Magazine.pdb
+E:\C#\Magazine\Magazine\obj\Debug\Magazine.exe
+E:\C#\Magazine\Magazine\obj\Debug\Magazine.pdb
